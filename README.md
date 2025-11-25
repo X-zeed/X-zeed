@@ -6,7 +6,7 @@ Full Stack Dev + Embedded System
 
 I'm studing at Saipanyarangsit School in Gifted-SMT Program.
 
-* 🌍  I'm based in I'm based in Pathunthani,Thailand
+* 🌍  I'm based in I'm based in Pathumthani,Thailand
 * 🖥️  See my portfolio at [My Port](http://portfolio-kmutt-wachirawit-tanleng.netlify.app/)
 * ✉️  You can contact me at [billwachi2550@gmail.com](mailto:billwachi2550@gmail.com)
 * 🧠  I'm currently learning ReactJS , NextJS
