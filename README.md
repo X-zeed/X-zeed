@@ -11,7 +11,7 @@ I am a first-year student at **Chulalongkorn University**, enrolled in the **Com
 - 📍 **Location:** Pathumthani, Thailand
 - 🌐 **Portfolio:** [portfolio-cedt-wachirawit-tanleng.netlify.app](http://portfolio-cedt-wachirawit-tanleng.netlify.app/)
 - 📧 **Contact:** [billwachi2550@gmail.com](mailto:billwachi2550@gmail.com)
-- 📚 **Currently Learning:** React.js, Next.js
+- 📚 **Currently Learning:** React.js, Next.js, Kicad, ROS2
 
 ---
 
